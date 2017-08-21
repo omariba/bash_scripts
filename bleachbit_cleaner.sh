@@ -1,11 +1,1 @@
-bleachbit -c google_chrome.cache
-bleachbit -c google_chrome.cookies
-bleachbit -c google_chrome.session
-bleachbit -c chromium.cache
-bleachbit -c chromium.cookies
-bleachbit -c chromium.current_session
-bleachbit -c firefox.cache
-bleachbit -c firefox.cookies
-bleachbit -c system.cache
-bleachbit -c system.memory
-bleachbit -c apt.clean
+bleachbit -c google_chrome.cache google_chrome.cookies google_chrome.session firefox.cache firefox.cookie system.cache system.memory apt.clean
